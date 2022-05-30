@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Instituto_App_JOSE_MIGUEL_N_V/1.0.0": {
+        "runtime": {
+          "Instituto_App_JOSE_MIGUEL_N_V.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Instituto_App_JOSE_MIGUEL_N_V/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
